@@ -10,7 +10,7 @@ class CNC_Converter(object):
     
     def __init__(self):
 
-        self.interface = Interface(server='http://192.168.10.17:8080', user='python', password='cnc_python2018', cachedir='/tmp')
+        self.interface = Interface(server='http://192.168.10.17:8080', user='python', password='', cachedir='/tmp')
         self.tmpdir   = '/home/xnat/tmp/cnc_converter'
         self.datafile = '/home/xnat/cnc_converter/data/cnc_data.pickle'
         self.logfile = '/home/xnat/cnc_converter/log/cnc_converter.log'
