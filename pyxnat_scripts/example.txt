@@ -1,0 +1,1 @@
+./nic_convert_data.sh -f /data/xnat/tmp/74/ -o /data/xnat/tmp/mytmp
