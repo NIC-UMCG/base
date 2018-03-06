@@ -1,0 +1,55 @@
+[ 2018-03-05 15:33:16,694 ] Database loaded 
+[ 2018-03-05 15:33:16,695 ] Database saved succesfully 
+[ 2018-03-05 15:34:33,353 ] Database loaded 
+[ 2018-03-05 15:34:33,353 ] Database saved succesfully 
+[ 2018-03-05 15:34:41,618 ] Database loaded 
+[ 2018-03-05 15:34:41,618 ] Database saved succesfully 
+[ 2018-03-05 15:34:58,394 ] Database loaded 
+[ 2018-03-05 15:34:58,394 ] Database saved succesfully 
+[ 2018-03-05 15:35:09,700 ] Database loaded 
+[ 2018-03-05 15:35:09,700 ] Database saved succesfully 
+[ 2018-03-05 15:35:09,735 ] Starting new HTTP connection (1): 192.168.10.17 
+[ 2018-03-05 15:35:10,559 ] http://192.168.10.17:8080 "GET /data/JSESSION HTTP/1.1" 200 32 
+[ 2018-03-05 15:42:29,157 ] Database loaded 
+[ 2018-03-05 15:42:29,157 ] Database saved succesfully 
+[ 2018-03-05 15:42:29,161 ] Starting new HTTP connection (1): 192.168.10.17 
+[ 2018-03-05 15:42:29,203 ] http://192.168.10.17:8080 "GET /data/JSESSION HTTP/1.1" 200 32 
+[ 2018-03-05 15:42:34,327 ] Database loaded 
+[ 2018-03-05 15:42:34,328 ] Database saved succesfully 
+[ 2018-03-05 15:42:34,331 ] Starting new HTTP connection (1): 192.168.10.17 
+[ 2018-03-05 15:42:34,350 ] http://192.168.10.17:8080 "GET /data/JSESSION HTTP/1.1" 200 32 
+[ 2018-03-05 15:42:39,328 ] Database loaded 
+[ 2018-03-05 15:42:39,328 ] Database saved succesfully 
+[ 2018-03-05 15:42:39,332 ] Starting new HTTP connection (1): 192.168.10.17 
+[ 2018-03-05 15:42:39,359 ] http://192.168.10.17:8080 "GET /data/JSESSION HTTP/1.1" 200 32 
+[ 2018-03-05 15:44:14,515 ] Database loaded 
+[ 2018-03-05 15:44:14,515 ] Database saved succesfully 
+[ 2018-03-05 15:44:14,519 ] Starting new HTTP connection (1): 192.168.10.17 
+[ 2018-03-05 15:44:14,543 ] http://192.168.10.17:8080 "GET /data/JSESSION HTTP/1.1" 200 32 
+[ 2018-03-05 15:44:46,792 ] Database loaded 
+[ 2018-03-05 15:44:46,793 ] Database saved succesfully 
+[ 2018-03-05 15:44:46,796 ] Starting new HTTP connection (1): 192.168.10.17 
+[ 2018-03-05 15:44:46,815 ] http://192.168.10.17:8080 "GET /data/JSESSION HTTP/1.1" 200 32 
+[ 2018-03-05 15:44:51,670 ] Database loaded 
+[ 2018-03-05 15:44:51,670 ] Database saved succesfully 
+[ 2018-03-05 15:44:51,673 ] Starting new HTTP connection (1): 192.168.10.17 
+[ 2018-03-05 15:44:51,689 ] http://192.168.10.17:8080 "GET /data/JSESSION HTTP/1.1" 200 32 
+[ 2018-03-05 15:46:05,369 ] Database loaded 
+[ 2018-03-05 15:46:05,369 ] Database saved succesfully 
+[ 2018-03-05 15:46:05,373 ] Starting new HTTP connection (1): 192.168.10.17 
+[ 2018-03-05 15:46:05,397 ] http://192.168.10.17:8080 "GET /data/JSESSION HTTP/1.1" 200 32 
+[ 2018-03-05 15:46:28,204 ] Database loaded 
+[ 2018-03-05 15:46:28,204 ] Database saved succesfully 
+[ 2018-03-05 15:46:28,208 ] Starting new HTTP connection (1): 192.168.10.17 
+[ 2018-03-05 15:46:28,227 ] http://192.168.10.17:8080 "GET /data/JSESSION HTTP/1.1" 200 32 
+[ 2018-03-05 15:46:40,558 ] Database loaded 
+[ 2018-03-05 15:46:40,558 ] Database saved succesfully 
+[ 2018-03-05 15:46:40,562 ] Starting new HTTP connection (1): 192.168.10.17 
+[ 2018-03-05 15:46:40,589 ] http://192.168.10.17:8080 "GET /data/JSESSION HTTP/1.1" 200 32 
+[ 2018-03-05 15:47:08,225 ] Database loaded 
+[ 2018-03-05 15:47:08,226 ] Database saved succesfully 
+[ 2018-03-05 15:47:08,229 ] Starting new HTTP connection (1): 192.168.10.17 
+[ 2018-03-05 15:47:08,249 ] http://192.168.10.17:8080 "GET /data/JSESSION HTTP/1.1" 200 32 
+[ 2018-03-05 15:47:08,251 ] Found 32 subjects 
+[ 2018-03-05 15:47:08,444 ] http://192.168.10.17:8080 "GET /data/projects?format=csv&columns=ID,xsiType HTTP/1.1" 200 None 
+[ 2018-03-05 15:47:10,900 ] http://192.168.10.17:8080 "GET /data/projects/CathCog/subjects?format=csv&columns=ID,xsiType HTTP/1.1" 200 None 
