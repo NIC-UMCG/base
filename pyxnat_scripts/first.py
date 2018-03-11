@@ -3,7 +3,7 @@ import os
 from pyxnat import Interface
 from xml.dom import minidom
 
-cnc = Interface(server='http://192.168.10.17:8080', user='python', password='cnc_python2018', cachedir='/tmp')
+cnc = Interface(server='http://192.168.10.17:8080', user='python', password='', cachedir='/tmp')
 
 projects = cnc.select.projects().get()
 
